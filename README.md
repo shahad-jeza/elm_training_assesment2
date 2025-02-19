@@ -2,8 +2,8 @@
 
 ## Overview
 A simple and responsive login page built with **HTML** and styled using **pure CSS**.
-<img width="1439" alt="Screenshot 1446-08-18 at 11 24 59 PM" src="https://github.com/user-attachments/assets/48875c61-6725-4284-a1ef-3673fec1454a" />
-<img width="1439" alt="Screenshot 1446-08-18 at 11 24 36 PM" src="https://github.com/user-attachments/assets/ed8df1c4-d2fa-4046-b7df-ee4eeeaef715" />
+<img width="512" alt="Screenshot 1446-08-18 at 11 24 59 PM" src="https://github.com/user-attachments/assets/48875c61-6725-4284-a1ef-3673fec1454a" />
+<img width="512" alt="Screenshot 1446-08-18 at 11 24 36 PM" src="https://github.com/user-attachments/assets/ed8df1c4-d2fa-4046-b7df-ee4eeeaef715" />
 
 
 
@@ -16,6 +16,6 @@ A simple and responsive login page built with **HTML** and styled using **pure C
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shahad-jeza/elm_training_assesment2.git
 2.	Open index.html in a web browser.
 3.	Explore the sign-up and sign-in forms.
